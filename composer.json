@@ -1,0 +1,17 @@
+{
+    "name": "alexander/hello-world",
+    "description": "Test project",
+    "autoload": {
+        "psr-4": {
+            "Alexander\\HelloWorld\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "authors": [
+        {
+            "name": "Alexander"
+        }
+    ]
+}
